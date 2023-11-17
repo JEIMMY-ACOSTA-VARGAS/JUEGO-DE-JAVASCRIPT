@@ -1,4 +1,5 @@
 // Se programa el Azar
+
 let numeroAzar = Math.floor(Math.random()*100) + 1
 
 let numeroEntrada = document.getElementById('numeroEntrada')
